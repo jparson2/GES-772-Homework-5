@@ -135,7 +135,7 @@ var countries = {
 		        "pop": "191,908,598",
 		        "style": {
 		            weight: 2,
-		            color: "#C1F",
+		            color: "#999",
 		            opacity:1,
 		            fillColor:"#CC11FF",
 		            fillOpacity: 0.8
